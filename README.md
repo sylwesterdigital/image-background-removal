@@ -6,6 +6,13 @@ If Vision isn’t available (or fails), it **automatically falls back** to a pur
 
 ## What it does
 
+![pp2](https://github.com/user-attachments/assets/4e37546c-119b-4c7b-b7d3-78e440287968)
+
+<img width="994" height="559" alt="pp2-nb" src="https://github.com/user-attachments/assets/8528e3d2-e3ab-47bd-8fc3-56cb1041264a" />
+<img width="994" height="559" alt="pp2-br" src="https://github.com/user-attachments/assets/6b15ead7-e104-4e63-a119-eb6ac330e1ed" />
+<img width="994" height="559" alt="pp2-br-white" src="https://github.com/user-attachments/assets/a461aff2-71ea-4063-a8b3-991c5c2ed53c" />
+
+
 * Takes one or more images and produces **black silhouettes**:
 
   * Transparent background (PNG with alpha), or
